@@ -13,4 +13,6 @@ Achieves an accuracy rate of 85%.
 📝 Collaboration Notebook:
 Link to Collaboratory Notebook : [https://colab.research.google.com/drive/1X-G249xXUt-lztXwEN06rDPh7iXA90L6#scrollTo=kqUdzFCa0bi0
 ](url)
+
+
 Feel free to explore, contribute, and enhance our image captioning capabilities! 🚀
